@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'EF810516463522C5931CBE50'
+               BlueprintIdentifier = '24978D9A769D86129BFD2D91'
                BlueprintName = 'CCAdition'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'CCAdition.framework'>
