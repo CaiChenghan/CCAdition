@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CCAdition
 
 [![CI Status](http://img.shields.io/travis/蔡成汉/CCAdition.svg?style=flat)](https://travis-ci.org/蔡成汉/CCAdition)
@@ -27,3 +28,6 @@ pod "CCAdition"
 ## License
 
 CCAdition is available under the MIT license. See the LICENSE file for more info.
+=======
+# CCAdition
+>>>>>>> 3b5de2eb05edd815c88e1df3cec0cfeeaff16c94
