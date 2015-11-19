@@ -1,6 +1,0 @@
-framework module CCAdition {
-  umbrella header "CCAdition-umbrella.h"
-
-  export *
-  module * { export * }
-}
